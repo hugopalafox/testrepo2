@@ -5,11 +5,11 @@
 I'm a passionate developer with a keen interest in software engineering, open source, and building impactful solutions. I thrive on learning new technologies, solving complex problems, and contributing to the developer community.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, Python, C++, TypeScript
-- **Frameworks & Libraries**: React, Node.js, Django, Flask
-- **DevOps & Tools**: Docker, Kubernetes, GitHub Actions, Jenkins
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **Other Skills**: RESTful APIs, GraphQL, CI/CD, Testing (Jest, PyTest)
+- **Languages**: JavaScript, Python
+# - **Frameworks & Libraries**: React, Node.js, Django, Flask
+# - **DevOps & Tools**: Docker, Kubernetes, GitHub Actions, Jenkins
+#- **Databases**: PostgreSQL, MongoDB, MySQL
+#- **Other Skills**: RESTful APIs, GraphQL, CI/CD, Testing (Jest, PyTest)
 
 ## 🌱 Current Focus
 - Exploring **AI/ML** and integrating it into real-world applications.
